@@ -2,7 +2,7 @@
 
 [Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
-[Bootstrap Icon](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+[Bootstrap Icon](https://icons.getbootstrap.com/    )
 
 [Couleurs](https://getbootstrap.com/docs/5.3/customize/color/)
 
